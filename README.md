@@ -7,3 +7,5 @@ No primeiro modelo foi realizado a limpeza dos textos retirando dos textos as st
 No segundo modelo foi realizado a mesma coisa do primeiro, porém, utilizando também a técnica stemming. 
 
 Por fim, foram criados dois algoritmo de machine learning que tem bons rendimento quando envolvidos com NLP, e comparados a sua acúracia.
+
+link para acesso aos dados: https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view
